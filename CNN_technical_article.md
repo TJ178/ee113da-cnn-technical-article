@@ -115,7 +115,7 @@ Because of the advent of CNNs, image classification can be much lighter than pre
 
  [3] Glosser.ca. “File:Colored Neural Network.Svg.” Wikimedia Commons, 28 Jan. 2013, commons.wikimedia.org/wiki/File:Colored_neural_network.svg. 
 
- [4] Krizhevsky, A.; Sutskever, I.; Hinton, G. E. (2012). "Imagenet classification with deep convolutional neural networks" (PDF). Advances in Neural Information Processing Systems. 1: 1097–1105. Archived (PDF) from the original on 2022-03-31. Retrieved 2022-03-31.
+ [4] Krizhevsky, A.; Sutskever, I.; Hinton, G. E. (2012). "Imagenet classification with deep convolutional neural networks" (PDF). Advances in Neural Information Processing Systems. 1: 1097–1105.
 
  [5] Ciresan, D., Meier, U., Schmidhuber, J.: Multi-column deep neural networks for image classification. In: Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. pp. 3642–3649. IEEE (2012)
 
